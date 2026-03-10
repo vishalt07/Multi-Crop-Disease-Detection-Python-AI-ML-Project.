@@ -1,0 +1,1 @@
+# Multi-Crop-Disease-Detection-Python-AI-ML-Project.
